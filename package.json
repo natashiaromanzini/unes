@@ -1,0 +1,19 @@
+{
+  "name": "unes",
+  "version": "1.0.0",
+  "description": "projeto basico de html e css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/natashiaromanzini/unes.git"
+  },
+  "author": "Natashia Romanzini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natashiaromanzini/unes/issues"
+  },
+  "homepage": "https://github.com/natashiaromanzini/unes#readme"
+}
